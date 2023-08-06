@@ -1,0 +1,1 @@
+CREATE DATABASE guest_note_app;
